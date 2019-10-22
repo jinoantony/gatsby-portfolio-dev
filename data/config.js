@@ -1,13 +1,13 @@
 module.exports = {
-	defaultTitle: 'John Doe',
+	defaultTitle: 'Jino Antony',
 	logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
-	author: 'John Doe',
+	author: 'Jino Antony',
 	url: 'https://portfolio.smakosh.com',
-	legalName: 'John Doe',
-	defaultDescription: 'I’m John and I’m a Backend & Devops engineer!',
+	legalName: 'Jino Antony',
+	defaultDescription: 'I’m Jino and I’m a Backend engineer!',
 	socialLinks: {
-		twitter: 'http://www.twitter.com/smakosh',
-		github: 'https://github.com/smakosh',
+		twitter: 'http://www.twitter.com/JinoAntony_17',
+		github: 'https://github.com/jinoantony',
 		linkedin: 'https://www.linkedin.com/in/ismail-ghallou-630149122/',
 		instagram: 'https://instagram.com/smakosh19',
 		youtube: 'https://www.youtube.com/user/smakoshthegamer',
@@ -18,7 +18,7 @@ module.exports = {
 	backgroundColor: '#6b63ff',
 	social: {
 		facebook: 'appId',
-		twitter: '@smakosh',
+		twitter: '@jinoantony',
 	},
 	address: {
 		city: 'City',
@@ -27,8 +27,8 @@ module.exports = {
 		zipCode: 'ZipCode',
 	},
 	contact: {
-		email: 'email',
-		phone: 'phone number',
+		email: 'jinoantony99@gmail.com',
+		phone: '+91-9747989462',
 	},
 	foundingDate: '2018',
 	recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN'
