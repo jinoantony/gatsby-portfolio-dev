@@ -1,7 +1,7 @@
 ---
-path: '/first-post'
+path: '/first-post-2'
 date: '2019-10-22'
-title: 'My first blog post about lorem ipsum without no context'
+title: 'My first blog post about lorem ipsum without no contexttt'
 author: 'Jino Antony'
 tag: 'Demo'
 ---

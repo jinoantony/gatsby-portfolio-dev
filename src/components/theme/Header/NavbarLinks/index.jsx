@@ -1,5 +1,6 @@
 import React from 'react'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
+import { Link } from 'gatsby'
 import { Wrapper } from './styles'
 
 const NavbarLinks = ({ desktop }) => (
@@ -7,7 +8,7 @@ const NavbarLinks = ({ desktop }) => (
 		<AnchorLink href="#about">About</AnchorLink>
 		<AnchorLink href="#projects">Projects</AnchorLink>
 		<AnchorLink href="#contact">Contact</AnchorLink>
-		<AnchorLink href="#contact">Blog</AnchorLink>
+		<Link to="/blog">Blog</Link>
 	</Wrapper>
 )
 

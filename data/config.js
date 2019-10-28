@@ -5,6 +5,7 @@ module.exports = {
 	url: 'https://portfolio.smakosh.com',
 	legalName: 'Jino Antony',
 	defaultDescription: 'I’m Jino and I’m a Backend engineer!',
+	postsPerPage: 2,
 	socialLinks: {
 		twitter: 'http://www.twitter.com/JinoAntony_17',
 		github: 'https://github.com/jinoantony',
@@ -31,5 +32,5 @@ module.exports = {
 		phone: '+91-9747989462',
 	},
 	foundingDate: '2018',
-	recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN'
+	recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN',
 }

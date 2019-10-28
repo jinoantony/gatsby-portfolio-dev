@@ -3,6 +3,7 @@ path: '/hidden-laravel-eloquent-features-you-may-not-know'
 date: '2019-10-24'
 title: '10 Hidden Laravel Eloquent Features You May Not Know'
 author: 'Jino Antony'
+tag: 'Laravel'
 ---
 
 Laravel is a feature-rich framework. However, you cannot find all the available features in the official documentation. Here are some features that you may not know.
@@ -172,5 +173,3 @@ When using `find()` or `findOrFail()` methods you can specify the attributes to 
 
     $user = App\User::findOrFail(1, ['name', 'age']);
 ```
-
-If you find this article helpful show some love by clicking on the 👏 icon several times. Also love to hear your opinions and thoughts on this. You can find me on [Twitter](https://twitter.com/Jino_Antony17).
